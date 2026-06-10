@@ -1,0 +1,1372 @@
+Selected device : cuda
+Total amount of parameters : 98754560
+------------------------------
+Starting training loop.
+Epoch 1
+Current lr : 0.000019
+Training loss : 9.76
+----------------------------------------------------------------------
+Current lr : 0.000037
+Training loss : 8.50
+----------------------------------------------------------------------
+Current lr : 0.000055
+Training loss : 7.31
+----------------------------------------------------------------------
+Current lr : 0.000074
+Training loss : 6.91
+----------------------------------------------------------------------
+Current lr : 0.000092
+Training loss : 6.67
+----------------------------------------------------------------------
+Current lr : 0.000110
+Training loss : 6.48
+----------------------------------------------------------------------
+Current lr : 0.000129
+Training loss : 6.31
+----------------------------------------------------------------------
+Current lr : 0.000147
+Training loss : 6.18
+----------------------------------------------------------------------
+Current lr : 0.000166
+Training loss : 6.02
+----------------------------------------------------------------------
+Current lr : 0.000184
+Training loss : 5.88
+----------------------------------------------------------------------
+Current lr : 0.000202
+Training loss : 5.75
+----------------------------------------------------------------------
+Current lr : 0.000221
+Training loss : 5.62
+----------------------------------------------------------------------
+Current lr : 0.000239
+Training loss : 5.49
+----------------------------------------------------------------------
+Current lr : 0.000257
+Training loss : 5.37
+----------------------------------------------------------------------
+Current lr : 0.000276
+Training loss : 5.25
+----------------------------------------------------------------------
+Current lr : 0.000294
+Training loss : 5.14
+----------------------------------------------------------------------
+Current lr : 0.000312
+Training loss : 5.03
+----------------------------------------------------------------------
+Current lr : 0.000331
+Training loss : 4.93
+----------------------------------------------------------------------
+Current lr : 0.000349
+Training loss : 4.81
+----------------------------------------------------------------------
+Current lr : 0.000367
+Training loss : 4.73
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+l'équipe jdida dyal l'autoroute ghadi tkoun m3a99ad bezaf l'i9tisad ssiya7a f ga3 les chérements dyal l'madina, surtout f les zones, bima fihom l'mo7ar.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+l'khass l'7adit 7ell 9ahwa f l'a7san l'mo7awalat dyal l'fard hiya naja7a bezaf, khassek t9der t3awd w kat7awelha.</s>
+------
+Hello, how are you ?
+l'fachwa, kifach nta?</s>
+------
+Have you seen the football match of last night ?
+wach chefti l'ard dyal l'bar7 li fat?</s>
+------
+It is a very good decision that you have made.
+l9arar zwin bezaf li 3endek.</s>
+------
+Come to my place to eat a tajine for lunch.
+l'ard bach n9aw l'wa7d tajin l'appartement.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+l'khor l'khass b'shi7, l'3a9la dyal l'mo7awalat jdida li yallah lyoum? kantmenna.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+l'ard kan9elleb 3la taxi ghadi y7e66o lyoum.</s>
+------
+Validation loss : 4.53
+Expected total time : 4.39h
+----------------------------------------------------------------------
+Epoch 2
+Current lr : 0.000386
+Training loss : 4.63
+----------------------------------------------------------------------
+Current lr : 0.000400
+Training loss : 4.52
+----------------------------------------------------------------------
+Current lr : 0.000400
+Training loss : 4.44
+----------------------------------------------------------------------
+Current lr : 0.000400
+Training loss : 4.36
+----------------------------------------------------------------------
+Current lr : 0.000400
+Training loss : 4.30
+----------------------------------------------------------------------
+Current lr : 0.000400
+Training loss : 4.23
+----------------------------------------------------------------------
+Current lr : 0.000400
+Training loss : 4.17
+----------------------------------------------------------------------
+Current lr : 0.000400
+Training loss : 4.13
+----------------------------------------------------------------------
+Current lr : 0.000399
+Training loss : 4.07
+----------------------------------------------------------------------
+Current lr : 0.000399
+Training loss : 4.03
+----------------------------------------------------------------------
+Current lr : 0.000399
+Training loss : 3.99
+----------------------------------------------------------------------
+Current lr : 0.000399
+Training loss : 3.95
+----------------------------------------------------------------------
+Current lr : 0.000399
+Training loss : 3.92
+----------------------------------------------------------------------
+Current lr : 0.000398
+Training loss : 3.88
+----------------------------------------------------------------------
+Current lr : 0.000398
+Training loss : 3.85
+----------------------------------------------------------------------
+Current lr : 0.000398
+Training loss : 3.83
+----------------------------------------------------------------------
+Current lr : 0.000397
+Training loss : 3.81
+----------------------------------------------------------------------
+Current lr : 0.000397
+Training loss : 3.77
+----------------------------------------------------------------------
+Current lr : 0.000397
+Training loss : 3.75
+----------------------------------------------------------------------
+Current lr : 0.000396
+Training loss : 3.72
+----------------------------------------------------------------------
+Current lr : 0.000396
+Training loss : 3.71
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+l'gonsier dyal l'mina jdid dyal l'bibga ghadi ykoun vraiment mou7arrik l'i9tisad dial ssiya7a f ga3 l'ma3alim, surtout f les zones li fihom l'mo7awwala, menhom l'in9irad.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+khali l'bouskhkhani 7awl wa7d l'7anout dyal l9ahwa f dar lbeida li naja7 bezzaf, khassek temchi tamma w t7awelha.</s>
+------
+Hello, how are you ?
+l'golle, kifach nta?</s>
+------
+Have you seen the football match of last night ?
+wach chefti lmatch dyal kora dyal lbar7?</s>
+------
+It is a very good decision that you have made.
+l'gonsonte hiya une décision mzyana bzaf li khdat.</s>
+------
+Come to my place to eat a tajine for lunch.
+l'felfon bach naklou tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+l'golla dyal sbah mzyan, b7al l'bout. 3awd lkhobz jdid li wajed lyoum? kantmenna.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+l'golus kay9elleb 3la taxi ghadi y7arek f l'a7ya2.</s>
+------
+Validation loss : 3.58
+Expected total time : 4.41h
+----------------------------------------------------------------------
+Epoch 3
+Current lr : 0.000395
+Training loss : 3.65
+----------------------------------------------------------------------
+Current lr : 0.000395
+Training loss : 3.59
+----------------------------------------------------------------------
+Current lr : 0.000394
+Training loss : 3.58
+----------------------------------------------------------------------
+Current lr : 0.000394
+Training loss : 3.57
+----------------------------------------------------------------------
+Current lr : 0.000393
+Training loss : 3.56
+----------------------------------------------------------------------
+Current lr : 0.000393
+Training loss : 3.55
+----------------------------------------------------------------------
+Current lr : 0.000392
+Training loss : 3.53
+----------------------------------------------------------------------
+Current lr : 0.000391
+Training loss : 3.52
+----------------------------------------------------------------------
+Current lr : 0.000391
+Training loss : 3.52
+----------------------------------------------------------------------
+Current lr : 0.000390
+Training loss : 3.51
+----------------------------------------------------------------------
+Current lr : 0.000389
+Training loss : 3.50
+----------------------------------------------------------------------
+Current lr : 0.000389
+Training loss : 3.48
+----------------------------------------------------------------------
+Current lr : 0.000388
+Training loss : 3.47
+----------------------------------------------------------------------
+Current lr : 0.000387
+Training loss : 3.47
+----------------------------------------------------------------------
+Current lr : 0.000386
+Training loss : 3.45
+----------------------------------------------------------------------
+Current lr : 0.000386
+Training loss : 3.45
+----------------------------------------------------------------------
+Current lr : 0.000385
+Training loss : 3.44
+----------------------------------------------------------------------
+Current lr : 0.000384
+Training loss : 3.42
+----------------------------------------------------------------------
+Current lr : 0.000383
+Training loss : 3.42
+----------------------------------------------------------------------
+Current lr : 0.000382
+Training loss : 3.41
+----------------------------------------------------------------------
+Current lr : 0.000381
+Training loss : 3.40
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+b'chkel port jdid dyal l'gototre m3a l'mo7arrik ghadi ykoun bessa7 un déplacement l'i9tisad ssiya7a f ga3 l'mokhtali9, surtout f les zones li fiha des citoyons, menha la cadé.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+3emmi l'7ayz hicham 7ell 7anot dyal l9ahwa f dubai li naj7a bezzaf, khassek tmchi temma w tjerrabha.</s>
+------
+Hello, how are you ?
+t7a99e9, kifach wach nta?</s>
+------
+Have you seen the football match of last night ?
+wach chekti lmatch dyal lkora lbar7?</s>
+------
+It is a very good decision that you have made.
+l'ambulance hiya une décision mzyana bezaf li derti.</s>
+------
+Come to my place to eat a tajine for lunch.
+t7endi l blasti bach nakol chi tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+b sba7 lkhir, moul l7did. wach kay7mel lkhobz jdid li wajed lyom? l'amal m3a9oul.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+l'ambulance kat9elleb 3la chi taxi ghadi l'l'monumente dyal lyoum.</s>
+------
+Validation loss : 3.32
+Expected total time : 4.41h
+----------------------------------------------------------------------
+Epoch 4
+Current lr : 0.000380
+Training loss : 3.33
+----------------------------------------------------------------------
+Current lr : 0.000379
+Training loss : 3.30
+----------------------------------------------------------------------
+Current lr : 0.000378
+Training loss : 3.30
+----------------------------------------------------------------------
+Current lr : 0.000377
+Training loss : 3.30
+----------------------------------------------------------------------
+Current lr : 0.000376
+Training loss : 3.30
+----------------------------------------------------------------------
+Current lr : 0.000375
+Training loss : 3.29
+----------------------------------------------------------------------
+Current lr : 0.000374
+Training loss : 3.30
+----------------------------------------------------------------------
+Current lr : 0.000373
+Training loss : 3.29
+----------------------------------------------------------------------
+Current lr : 0.000372
+Training loss : 3.28
+----------------------------------------------------------------------
+Current lr : 0.000371
+Training loss : 3.29
+----------------------------------------------------------------------
+Current lr : 0.000370
+Training loss : 3.27
+----------------------------------------------------------------------
+Current lr : 0.000369
+Training loss : 3.28
+----------------------------------------------------------------------
+Current lr : 0.000368
+Training loss : 3.28
+----------------------------------------------------------------------
+Current lr : 0.000366
+Training loss : 3.27
+----------------------------------------------------------------------
+Current lr : 0.000365
+Training loss : 3.28
+----------------------------------------------------------------------
+Current lr : 0.000364
+Training loss : 3.26
+----------------------------------------------------------------------
+Current lr : 0.000363
+Training loss : 3.27
+----------------------------------------------------------------------
+Current lr : 0.000361
+Training loss : 3.25
+----------------------------------------------------------------------
+Current lr : 0.000360
+Training loss : 3.25
+----------------------------------------------------------------------
+Current lr : 0.000359
+Training loss : 3.24
+----------------------------------------------------------------------
+Current lr : 0.000357
+Training loss : 3.24
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+m3a lmina jdid dyal la piscine li m7addad ghadi ykoun taghyir kbir l'économie dyal tourisme f ga3 les manches, surtout f les zones li fihom des messages, menhom l'influence.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+l3emmi khali hicham 7ell wa7d l7anout dyal lqahwa f west dar li naj7 bzaf, khassek tmchi temma w tjerrebha.</s>
+------
+Hello, how are you ?
+m3ellem, kifach nta?</s>
+------
+Have you seen the football match of last night ?
+wach chefti match lkora dyal lbar7?</s>
+------
+It is a very good decision that you have made.
+l'gourgement howa une décision mzyana bezaf li 3ndk.</s>
+------
+Come to my place to eat a tajine for lunch.
+t7en l blasa dyali bach nakol tajine l ghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+l'f sbah l'kamil, la manque. l'khobz jdid wajed lyom? l'amal dyal l'ma.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+l'flouss kay9elleb 3la taxi ghadi y7ell l'fillah.</s>
+------
+Validation loss : 3.19
+Expected total time : 4.42h
+----------------------------------------------------------------------
+Epoch 5
+Current lr : 0.000356
+Training loss : 3.14
+----------------------------------------------------------------------
+Current lr : 0.000355
+Training loss : 3.14
+----------------------------------------------------------------------
+Current lr : 0.000353
+Training loss : 3.14
+----------------------------------------------------------------------
+Current lr : 0.000352
+Training loss : 3.15
+----------------------------------------------------------------------
+Current lr : 0.000351
+Training loss : 3.15
+----------------------------------------------------------------------
+Current lr : 0.000349
+Training loss : 3.15
+----------------------------------------------------------------------
+Current lr : 0.000348
+Training loss : 3.15
+----------------------------------------------------------------------
+Current lr : 0.000346
+Training loss : 3.16
+----------------------------------------------------------------------
+Current lr : 0.000345
+Training loss : 3.14
+----------------------------------------------------------------------
+Current lr : 0.000343
+Training loss : 3.14
+----------------------------------------------------------------------
+Current lr : 0.000342
+Training loss : 3.15
+----------------------------------------------------------------------
+Current lr : 0.000340
+Training loss : 3.14
+----------------------------------------------------------------------
+Current lr : 0.000339
+Training loss : 3.13
+----------------------------------------------------------------------
+Current lr : 0.000337
+Training loss : 3.14
+----------------------------------------------------------------------
+Current lr : 0.000335
+Training loss : 3.14
+----------------------------------------------------------------------
+Current lr : 0.000334
+Training loss : 3.13
+----------------------------------------------------------------------
+Current lr : 0.000332
+Training loss : 3.13
+----------------------------------------------------------------------
+Current lr : 0.000331
+Training loss : 3.13
+----------------------------------------------------------------------
+Current lr : 0.000329
+Training loss : 3.13
+----------------------------------------------------------------------
+Current lr : 0.000327
+Training loss : 3.13
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+wakha lmina jdid dyal l'infirmière li m3elle9 ghadi ykoun bessa7 un gamechanger l'économie dyal ssiya7a f ga3 les partenaires, surtout f les zones paranormales, bima fihom le blocage.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+b'khof 3ammi algénam hicham 7ell 7anout l9ahwa f'la salle a dos li naj7 bezzaf, khassek tmchi l'temma w tjerrebha.</s>
+------
+Hello, how are you ?
+fou9, kifach nta?</s>
+------
+Have you seen the football match of last night ?
+wach chefti lmatch dyal kora lbar7 f lil?</s>
+------
+It is a very good decision that you have made.
+ttab3a hiya 9arar mzyan bzaf li derti.</s>
+------
+Come to my place to eat a tajine for lunch.
+tferred 3la blasti bach nakol tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+wach sba7 mzyan, m3ad. wach kayn lkhobz jdid wajed lyoma? b7al ila kan l'amal.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+l'ambassadeur kay9elleb 3la taxi ghadi y3ref l'bala.</s>
+------
+Validation loss : 3.11
+Expected total time : 4.42h
+----------------------------------------------------------------------
+Epoch 6
+Current lr : 0.000326
+Training loss : 3.10
+----------------------------------------------------------------------
+Current lr : 0.000324
+Training loss : 3.02
+----------------------------------------------------------------------
+Current lr : 0.000322
+Training loss : 3.03
+----------------------------------------------------------------------
+Current lr : 0.000320
+Training loss : 3.03
+----------------------------------------------------------------------
+Current lr : 0.000319
+Training loss : 3.03
+----------------------------------------------------------------------
+Current lr : 0.000317
+Training loss : 3.03
+----------------------------------------------------------------------
+Current lr : 0.000315
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000313
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000312
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000310
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000308
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000306
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000304
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000302
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000301
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000299
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000297
+Training loss : 3.03
+----------------------------------------------------------------------
+Current lr : 0.000295
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000293
+Training loss : 3.03
+----------------------------------------------------------------------
+Current lr : 0.000291
+Training loss : 3.04
+----------------------------------------------------------------------
+Current lr : 0.000289
+Training loss : 3.03
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+b'wafa9 lmina jdid dyal l'entranger li m3a l'in9irad ghadi ykoun taghyir 7a9i9i l'i9tisad dyal ssiya7a f ga3 lmajalat lkhayriya, surtout f lmanati9 lli fiha l7acharat, menha l'ichraf.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+b3id 3la 3emmi l'ambass hicham 7ell 7anout 9ahwa f casa li naj7a bezzaf, khassek tmchi temma w tjerbou.</s>
+------
+Hello, how are you ?
+foule, kifach nta?</s>
+------
+Have you seen the football match of last night ?
+fougran chefti lmatch dyal kora lbar7 f lil?</s>
+------
+It is a very good decision that you have made.
+tlamed howa 9arar mzyan bezaf li derti.</s>
+------
+Come to my place to eat a tajine for lunch.
+tfa7mo 3la blasti bach nakol tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+foug sba7 mzyan, impontad. les frais dyal lkhobz jdid wajdin lyoum? l'amal kayn.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+fougha kay9elleb 3la taxi ghadi y3ref l'essence.</s>
+------
+Validation loss : 3.05
+Expected total time : 4.42h
+----------------------------------------------------------------------
+Epoch 7
+Current lr : 0.000287
+Training loss : 2.99
+----------------------------------------------------------------------
+Current lr : 0.000285
+Training loss : 2.93
+----------------------------------------------------------------------
+Current lr : 0.000283
+Training loss : 2.94
+----------------------------------------------------------------------
+Current lr : 0.000281
+Training loss : 2.94
+----------------------------------------------------------------------
+Current lr : 0.000279
+Training loss : 2.94
+----------------------------------------------------------------------
+Current lr : 0.000277
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000275
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000273
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000271
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000269
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000267
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000265
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000263
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000261
+Training loss : 2.96
+----------------------------------------------------------------------
+Current lr : 0.000259
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000257
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000255
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000253
+Training loss : 2.95
+----------------------------------------------------------------------
+Current lr : 0.000250
+Training loss : 2.96
+----------------------------------------------------------------------
+Current lr : 0.000248
+Training loss : 2.96
+----------------------------------------------------------------------
+Current lr : 0.000246
+Training loss : 2.95
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+men ba3d lmina jdid dyal 3a9d l'in9irad ghadi ykoun bessa7 taghyir f i9tisad ssiya7a f ga3 l'ichraf, surtout f lmanati9 li fiha l'intikar, 7ta lghich.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+3emmi allemlem hicham 7ell wa7ed l9ahwa f casa al dar lbeida li naj7a bezaf, khassek tmchi ltemma w tjerebha.</s>
+------
+Hello, how are you ?
+salam, kifach nta?</s>
+------
+Have you seen the football match of last night ?
+wach chfti match kora dyal lbar7 f lil?</s>
+------
+It is a very good decision that you have made.
+l'bad howa 9arar mzyan bzaf li dertti.</s>
+------
+Come to my place to eat a tajine for lunch.
+l7al9a 3la blasti bach nakol tajine lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+sba7 lkhir, ya3id. wach lkhobz jdid wajed lyoum? l2amal kay3ti had chi.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+yennayer kay9elleb 3la taxi ghadi l'l'inimination.</s>
+------
+Validation loss : 3.01
+Expected total time : 4.42h
+----------------------------------------------------------------------
+Epoch 8
+Current lr : 0.000244
+Training loss : 2.88
+----------------------------------------------------------------------
+Current lr : 0.000242
+Training loss : 2.85
+----------------------------------------------------------------------
+Current lr : 0.000240
+Training loss : 2.87
+----------------------------------------------------------------------
+Current lr : 0.000238
+Training loss : 2.86
+----------------------------------------------------------------------
+Current lr : 0.000236
+Training loss : 2.87
+----------------------------------------------------------------------
+Current lr : 0.000234
+Training loss : 2.87
+----------------------------------------------------------------------
+Current lr : 0.000231
+Training loss : 2.87
+----------------------------------------------------------------------
+Current lr : 0.000229
+Training loss : 2.88
+----------------------------------------------------------------------
+Current lr : 0.000227
+Training loss : 2.87
+----------------------------------------------------------------------
+Current lr : 0.000225
+Training loss : 2.88
+----------------------------------------------------------------------
+Current lr : 0.000223
+Training loss : 2.88
+----------------------------------------------------------------------
+Current lr : 0.000221
+Training loss : 2.88
+----------------------------------------------------------------------
+Current lr : 0.000218
+Training loss : 2.88
+----------------------------------------------------------------------
+Current lr : 0.000216
+Training loss : 2.88
+----------------------------------------------------------------------
+Current lr : 0.000214
+Training loss : 2.87
+----------------------------------------------------------------------
+Current lr : 0.000212
+Training loss : 2.89
+----------------------------------------------------------------------
+Current lr : 0.000210
+Training loss : 2.88
+----------------------------------------------------------------------
+Current lr : 0.000208
+Training loss : 2.89
+----------------------------------------------------------------------
+Current lr : 0.000205
+Training loss : 2.88
+----------------------------------------------------------------------
+Current lr : 0.000203
+Training loss : 2.89
+----------------------------------------------------------------------
+Current lr : 0.000201
+Training loss : 2.88
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+l'port jdid dyal l'garnanger li m3awdin ghadi ykoun bessa7 un gamechanger l'i9tisad ssiya7a f ga3 les guichets, surtout f lmanati9 li fiha l'adab, bima fihom l'moukhaddir.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+l'3am l'mouztali b'ghair hicham 7ell wa7d l'9ahwa f'l'madrassa li naj7a bezzaf, khassek tmchi l'temma w tjerrebha.</s>
+------
+Hello, how are you ?
+l'golol, kifach nta?</s>
+------
+Have you seen the football match of last night ?
+wach chefti lmatch dyal lkora lbar7 f lil?</s>
+------
+It is a very good decision that you have made.
+dak l9arar zwin bezaf li darti.</s>
+------
+Come to my place to eat a tajine for lunch.
+t7enni l blasti bach nakol tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+sba7 lkhir, ghourmid. wach lkhobz jdid wajed lyoum? ma3ndouch amal.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+l'anglement kay9elleb 3la taxi ghadi l'agenda.</s>
+------
+Validation loss : 2.98
+Expected total time : 4.41h
+----------------------------------------------------------------------
+Epoch 9
+Current lr : 0.000199
+Training loss : 2.80
+----------------------------------------------------------------------
+Current lr : 0.000197
+Training loss : 2.78
+----------------------------------------------------------------------
+Current lr : 0.000195
+Training loss : 2.79
+----------------------------------------------------------------------
+Current lr : 0.000192
+Training loss : 2.80
+----------------------------------------------------------------------
+Current lr : 0.000190
+Training loss : 2.80
+----------------------------------------------------------------------
+Current lr : 0.000188
+Training loss : 2.81
+----------------------------------------------------------------------
+Current lr : 0.000186
+Training loss : 2.81
+----------------------------------------------------------------------
+Current lr : 0.000184
+Training loss : 2.80
+----------------------------------------------------------------------
+Current lr : 0.000182
+Training loss : 2.81
+----------------------------------------------------------------------
+Current lr : 0.000179
+Training loss : 2.81
+----------------------------------------------------------------------
+Current lr : 0.000177
+Training loss : 2.82
+----------------------------------------------------------------------
+Current lr : 0.000175
+Training loss : 2.81
+----------------------------------------------------------------------
+Current lr : 0.000173
+Training loss : 2.82
+----------------------------------------------------------------------
+Current lr : 0.000171
+Training loss : 2.82
+----------------------------------------------------------------------
+Current lr : 0.000169
+Training loss : 2.82
+----------------------------------------------------------------------
+Current lr : 0.000167
+Training loss : 2.82
+----------------------------------------------------------------------
+Current lr : 0.000164
+Training loss : 2.82
+----------------------------------------------------------------------
+Current lr : 0.000162
+Training loss : 2.82
+----------------------------------------------------------------------
+Current lr : 0.000160
+Training loss : 2.81
+----------------------------------------------------------------------
+Current lr : 0.000158
+Training loss : 2.82
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+l port jdid dyal 3a9d l itran, ghadi ykoun bessa7 un gamechanger l i9tisad ssiya7a f ga3 ghichtok, surtout f les zones li fiha bzaf dyal nass, 7ta l mante9a.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+l3emmi lm3allem b ghicham 7ell wa7d l7anout dyal l9ahwa f casa li naj7 bezzaf, khassek tmchi ltemma w tjerrebha.</s>
+------
+Hello, how are you ?
+lvolol, kifach nta?</s>
+------
+Have you seen the football match of last night ?
+wach chefti match lkora dyal lbar7?</s>
+------
+It is a very good decision that you have made.
+l'angle hiya une décision mzyana bezaf li derti.</s>
+------
+Come to my place to eat a tajine for lunch.
+t7enni l blasti bach nakol tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+sba7 lkhir, 3aycha. wach lkhobz jdid wajed lyoum? amal kbir.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+l'anglement kay9elleb 3la taxi ghadi l la naimie.</s>
+------
+Validation loss : 2.96
+Expected total time : 4.41h
+----------------------------------------------------------------------
+Epoch 10
+Current lr : 0.000156
+Training loss : 2.80
+----------------------------------------------------------------------
+Current lr : 0.000154
+Training loss : 2.73
+----------------------------------------------------------------------
+Current lr : 0.000152
+Training loss : 2.74
+----------------------------------------------------------------------
+Current lr : 0.000150
+Training loss : 2.75
+----------------------------------------------------------------------
+Current lr : 0.000147
+Training loss : 2.74
+----------------------------------------------------------------------
+Current lr : 0.000145
+Training loss : 2.74
+----------------------------------------------------------------------
+Current lr : 0.000143
+Training loss : 2.75
+----------------------------------------------------------------------
+Current lr : 0.000141
+Training loss : 2.75
+----------------------------------------------------------------------
+Current lr : 0.000139
+Training loss : 2.75
+----------------------------------------------------------------------
+Current lr : 0.000137
+Training loss : 2.75
+----------------------------------------------------------------------
+Current lr : 0.000135
+Training loss : 2.75
+----------------------------------------------------------------------
+Current lr : 0.000133
+Training loss : 2.75
+----------------------------------------------------------------------
+Current lr : 0.000131
+Training loss : 2.75
+----------------------------------------------------------------------
+Current lr : 0.000129
+Training loss : 2.76
+----------------------------------------------------------------------
+Current lr : 0.000127
+Training loss : 2.75
+----------------------------------------------------------------------
+Current lr : 0.000125
+Training loss : 2.76
+----------------------------------------------------------------------
+Current lr : 0.000123
+Training loss : 2.76
+----------------------------------------------------------------------
+Current lr : 0.000121
+Training loss : 2.75
+----------------------------------------------------------------------
+Current lr : 0.000119
+Training loss : 2.76
+----------------------------------------------------------------------
+Current lr : 0.000117
+Training loss : 2.77
+----------------------------------------------------------------------
+Current lr : 0.000115
+Training loss : 2.76
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+zouj port jdid dyal l'anganger li mdellem ghadi ykoun bessa7 un gamechanger l'i9tisad ssiya7a f ga3 les anorogènes, surtout f lmanati9 l'ambitieuse, bima fihom le manifestre.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+kol 3ammi al anim hicham 7ell wa7d l7anot dyal l9ahwa f kalamar dar lbeida li naj7 bzaf, khassek tmchi ltemma w tjarbo.</s>
+------
+Hello, how are you ?
+kollo, kifach nta?</s>
+------
+Have you seen the football match of last night ?
+wach chefti match lkora dyal lbar7 f lil?</s>
+------
+It is a very good decision that you have made.
+tlja3 hiya 9arar zwin bezaf li derti.</s>
+------
+Come to my place to eat a tajine for lunch.
+t7en f dari bach nakol tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+sba7 lkhir, a monada. wach kayn lkhobz jdid wajed lyoum? l'amal kbir bzaf.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+sulta kat9elleb 3la taxi ghadi l'ala alimen.</s>
+------
+Validation loss : 2.94
+Expected total time : 4.41h
+----------------------------------------------------------------------
+Epoch 11
+Current lr : 0.000113
+Training loss : 2.73
+----------------------------------------------------------------------
+Current lr : 0.000111
+Training loss : 2.68
+----------------------------------------------------------------------
+Current lr : 0.000109
+Training loss : 2.69
+----------------------------------------------------------------------
+Current lr : 0.000107
+Training loss : 2.69
+----------------------------------------------------------------------
+Current lr : 0.000105
+Training loss : 2.69
+----------------------------------------------------------------------
+Current lr : 0.000103
+Training loss : 2.70
+----------------------------------------------------------------------
+Current lr : 0.000101
+Training loss : 2.70
+----------------------------------------------------------------------
+Current lr : 0.000100
+Training loss : 2.70
+----------------------------------------------------------------------
+Current lr : 0.000098
+Training loss : 2.70
+----------------------------------------------------------------------
+Current lr : 0.000096
+Training loss : 2.70
+----------------------------------------------------------------------
+Current lr : 0.000094
+Training loss : 2.70
+----------------------------------------------------------------------
+Current lr : 0.000092
+Training loss : 2.70
+----------------------------------------------------------------------
+Current lr : 0.000090
+Training loss : 2.71
+----------------------------------------------------------------------
+Current lr : 0.000089
+Training loss : 2.71
+----------------------------------------------------------------------
+Current lr : 0.000087
+Training loss : 2.70
+----------------------------------------------------------------------
+Current lr : 0.000085
+Training loss : 2.71
+----------------------------------------------------------------------
+Current lr : 0.000083
+Training loss : 2.71
+----------------------------------------------------------------------
+Current lr : 0.000081
+Training loss : 2.71
+----------------------------------------------------------------------
+Current lr : 0.000080
+Training loss : 2.71
+----------------------------------------------------------------------
+Current lr : 0.000078
+Training loss : 2.71
+----------------------------------------------------------------------
+Current lr : 0.000076
+Training loss : 2.70
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+jib port jdid dyal 3adam l'injan l'khayr ghadi ikon taghyir kbir l'i9tisad ssiya7a f ga3 ghurub sa7i, khassatan f lmanati9 l'khayba, bima fihom lkhayala.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+l7obb 3emmi ghnim 7ell wa7ed l9ahwa f kalamar dar lbeida li naj7a bezaf, khassek tmchi ltemma w tjerebha.</s>
+------
+Hello, how are you ?
+kolo, kif dayer labas 3lik?</s>
+------
+Have you seen the football match of last night ?
+wach nta chfti match lkora dyal lbar7 f lil?</s>
+------
+It is a very good decision that you have made.
+l'albis howa 9arar mzyan bezaf li derti.</s>
+------
+Come to my place to eat a tajine for lunch.
+t7errek 3la dari bach takol tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+sba7 lkhir, ghayr sa3id. wach lkhobz jdid wajed lyoum? ma3ndouch amal kbir.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+yennayer kay9elleb 3la taxi ghadi l'alghazi.</s>
+------
+Validation loss : 2.93
+Expected total time : 4.40h
+----------------------------------------------------------------------
+Epoch 12
+Current lr : 0.000075
+Training loss : 2.67
+----------------------------------------------------------------------
+Current lr : 0.000073
+Training loss : 2.65
+----------------------------------------------------------------------
+Current lr : 0.000071
+Training loss : 2.65
+----------------------------------------------------------------------
+Current lr : 0.000070
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000068
+Training loss : 2.65
+----------------------------------------------------------------------
+Current lr : 0.000066
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000065
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000063
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000061
+Training loss : 2.65
+----------------------------------------------------------------------
+Current lr : 0.000060
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000058
+Training loss : 2.67
+----------------------------------------------------------------------
+Current lr : 0.000057
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000055
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000054
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000052
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000051
+Training loss : 2.67
+----------------------------------------------------------------------
+Current lr : 0.000050
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000048
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000047
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000045
+Training loss : 2.66
+----------------------------------------------------------------------
+Current lr : 0.000044
+Training loss : 2.66
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+l'port jdid dyal 3echechech en ganger li m7e66o6 ghadi ykoun bessa7 un gamechanger l'i9tisad ssiya7a f ga3 les guichets, surtout f lmanati9 lkhayriya, bima fihom l'ichraf.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+l7ayawan dyal 3emmi almouchanim 7ell wa7ed l9ahwa f casa anglasa li naj7a bezzaf, khassek tmchi ltemma w tjerrebha.</s>
+------
+Hello, how are you ?
+kolo, kif dayer labas 3lik?</s>
+------
+Have you seen the football match of last night ?
+kolshi shafti lmatch dyal lkora lbar7 f lil?</s>
+------
+It is a very good decision that you have made.
+l'albis howa 9arar mzyan bzaf li derti.</s>
+------
+Come to my place to eat a tajine for lunch.
+khalliw 3endi l dar bach takol tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+sba7 lkhir, a moulat l3id. wach kayn lkhobz jdid wajed lyoum? ma3ndouch amal.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+yennayer kan9elleb 3la taxi ghadi l'ala alif.</s>
+------
+Validation loss : 2.93
+Expected total time : 4.40h
+----------------------------------------------------------------------
+Epoch 13
+Current lr : 0.000043
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000041
+Training loss : 2.62
+----------------------------------------------------------------------
+Current lr : 0.000040
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000039
+Training loss : 2.62
+----------------------------------------------------------------------
+Current lr : 0.000037
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000036
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000035
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000034
+Training loss : 2.62
+----------------------------------------------------------------------
+Current lr : 0.000032
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000031
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000030
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000029
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000028
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000027
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000026
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000025
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000024
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000023
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000022
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000021
+Training loss : 2.63
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+l'port jdid dyal 3a9d l'jazir ghadi ykoun bessa7 un gamechanger l'i9tisad ssiya7a f ga3 ghurub sa7i, surtout f lmanati9 lkhallaba, bima fihom lkhayala.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+l7ayawan dyal 3emmi almouchajir 7ell wa7ed l9ahwa f kalamar dar lbeida li naj7a bezzaf, khassek tmchi ltemma w tjerbha.</s>
+------
+Hello, how are you ?
+l'alégal, kif dayer labas 3lik?</s>
+------
+Have you seen the football match of last night ?
+khayfa li chefti match dyal lkora lbar7 f lil?</s>
+------
+It is a very good decision that you have made.
+l7out houwa 9arar mzyan bezaf li derti.</s>
+------
+Come to my place to eat a tajine for lunch.
+t7enni 3la dari bach nakol tajin l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+sba7 lkhir, a moulat l3id. wach kayn lkhobz jdid wajed lyoum? ma fiha ta amal.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+yennayer kan9elleb 3la taxi ghadi l na3na3 dyal nass.</s>
+------
+Validation loss : 2.93
+Expected total time : 4.40h
+----------------------------------------------------------------------
+Epoch 14
+Current lr : 0.000020
+Training loss : 2.63
+----------------------------------------------------------------------
+Current lr : 0.000019
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000018
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000017
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000016
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000015
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000014
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000014
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000013
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000012
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000011
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000011
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000010
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000009
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000009
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000008
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000007
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000007
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000006
+Training loss : 2.62
+----------------------------------------------------------------------
+Current lr : 0.000006
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000005
+Training loss : 2.61
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+l'port jdid dyal 3a9d l'jazir l'mota7akkam ghadi ykoun bessa7 un gamechanger l'i9tisad ssiya7a f ga3 ghurub sa7i, surtout f les zones li kaytiru l'khayal, bima fihom lkhayala.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+l'alboma dyal 3emmi almouchan 7ellat wa7ed l'9ahwa f kalamar dar l'bida li naj7a bezzaf, khassek tmchi l'temma w tjerebha.</s>
+------
+Hello, how are you ?
+l'alégal, kif dayer labas 3lik?</s>
+------
+Have you seen the football match of last night ?
+kolshi shafti match lkora dyal lbar7 f lil?</s>
+------
+It is a very good decision that you have made.
+l'albout houwa 9arar mzyan bezaf li derti.</s>
+------
+Come to my place to eat a tajine for lunch.
+jme3 3end blasti bach takol tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+sba7 lkhir, a moulat l3id. wach kayn lkhobz jdid wajed lyoum? ya amal kbir.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+yennayer kan9elleb 3la taxi ghadi l'agressifia.</s>
+------
+Validation loss : 2.93
+Expected total time : 4.39h
+----------------------------------------------------------------------
+Epoch 15
+Current lr : 0.000005
+Training loss : 2.61
+----------------------------------------------------------------------
+Current lr : 0.000004
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000004
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000003
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000003
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000003
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000002
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000002
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000002
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000001
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000001
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000001
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000001
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000001
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000000
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000000
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000000
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000000
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000000
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000000
+Training loss : 2.60
+----------------------------------------------------------------------
+Current lr : 0.000000
+Training loss : 2.60
+----------------------------------------------------------------------
+------
+The new port of Tanger Med will truly be a gamechanger for the economy of tourism all across Morocco, especially in the North areas, including the Rif.
+l'port jdid dyal 3a9d l'jazir l'mota7akkam ghadi ykoun bessa7 un gamechanger l'i9tisad ssiya7a f ga3 ghurub sa7i, surtout f les zones li kaykharjo men l'khatar, bima fihom lkhayrat dyal nass.</s>
+------
+My uncle Hicham has opened a coffee shop in Casablanca that is really successful, you should go there and try it.
+l'alboma dyal 3emmi almouchan 7ellat wa7ed l'9ahwa f casablanca anglasa li naj7a bezzaf, khassek tmchi l'temma w tjerebha.</s>
+------
+Hello, how are you ?
+l'alégal, kif dayer labas 3lik?</s>
+------
+Have you seen the football match of last night ?
+kolshi shafti match dyal kora lbar7 f lil?</s>
+------
+It is a very good decision that you have made.
+l'cotte howa 9arar mzyan bezaf li derti.</s>
+------
+Come to my place to eat a tajine for lunch.
+jme3 3end blasti bach takol tajine l lghda.</s>
+------
+Good morning, Sa3id. Is the fresh bread ready today? I hope so.
+sba7 lkhir, a moulat l3id. wach kayn lkhobz jdid wajed lyoum? ya amal kbir.</s>
+------
+I'm looking for a taxi going to Hay Riad.
+yennayer kan9elleb 3la taxi ghadi l na3na3 dyal nass.</s>
+------
+Validation loss : 2.93
+Expected total time : 4.39h
+----------------------------------------------------------------------

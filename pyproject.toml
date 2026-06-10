@@ -1,0 +1,16 @@
+[project]
+name = "translation"
+version = "0.1.0"
+description = "Translation from english to darija (in arabizi)"
+readme = "README.md"
+requires-python = "==3.10.19"
+dependencies = [
+    "datasets>=3.1.0",
+    "ipykernel>=6.29.0",
+    "ipython>=8.30.0",
+    "pandas>=2.2.0",
+    "torch>=2.10.0",
+    "tqdm>=4.67.0",
+    "transformers>=4.56.0",
+    "vllm>=0.18.1",
+]
