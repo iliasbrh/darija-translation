@@ -1,0 +1,31 @@
+Target Task: High-Fidelity English to Moroccan Darija (Arabizi) Translation, for 20 sentences.
+
+Linguistic Profile: Urban Casablanca/Rabat dialect and educated register (Darija l-Mutaqqafa). Ensure natural syntax and strictly avoid Modern Standard Arabic literalisms, even when using a formal register. Vary the register: use formal/academic Darija l-Mutaqqafa for some blocks, and standard urban street-level Darija (without excessive slang) for others. More importantly, do not translate word for word but instead write natural darija as it would be used in real life interactions. For the 'Educated' register, use sophisticated Darija (Darija l-Mutaqqafa) with French loanwords for technical/academic terms. STRICTLY PROHIBITED: Modern Standard Arabic (MSA) grammar, particles like 'Hal', 'Ladayan', or MSA verb conjugations. It must always sound like a spoken dialect. Ensure a diverse mix of pronouns (I, you, he, she, we, they) and tenses (past, present, future, imperative) across the 80 sentences. If using proper nouns (like names) make sure to not use the same name over and over again, but instead vary the names to make the dataset robust by knowing a diverse set of typical Moroccan names.
+
+Arabizi Notation Rules: You must use the following standard numbers: (2=ء, 3=ع, 6=ط, 7=ح, 8=غ, 9=ق). STRICTLY PROHIBITED: Do not ever use hyphens ("-") or underscores ("_"). Do not use any Arabic script characters; use only Latin letters. In the Darija sentences, write everything in lowercase.
+
+Sentence Length Constraints:
+8 sentences: 10-20 words each
+8 sentences: 20-50 words each
+4 sentences: 50-100 words each. For these, use complex multi-clause structures to hit the word count naturally, but pay attention about not using any MSA literalisms.
+(it does give a total of 20 sentences)
+
+Theme: {}
+
+Output Format Rules:
+Follow this exact format:
+"Sentence 1 :
+English : [english version here]
+Darija : [the translation to darija in arabizi here]
+===
+Sentence 2 :
+English : [english version here]
+Darija : [the translation to darija in arabizi here]
+===
+..."
+
+Strict Constraints:
+Do not write any introductory or concluding text (no wrapping text).
+Do not use newlines inside a single English or Darija sentence.
+Use exactly one newline to separate the English line from the Darija line.
+Use a single line with '===' to separate different numbered blocks.

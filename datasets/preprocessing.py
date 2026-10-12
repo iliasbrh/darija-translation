@@ -18,7 +18,7 @@ df = df.map(clean_string)
 df['english'] = df['english'].str.lower()
 df['darija'] = df['darija'].str.lower()
 print("Darija text cleaned and text in lowercase.")
-df.to_csv("clean_dataset.csv", index=False)
+df.to_csv("clean_dataset_bis.csv", index=False)
 print("Saved the clean dataset.")
 
 total_rows = len(df)
@@ -31,12 +31,42 @@ def get_joint_corpus():
         yield english_batch + darija_batch
 
 print("Training shared BPE tokenizer...")
-old_tokenizer = AutoTokenizer.from_pretrained("roberta-base")
-shared_tokenizer = old_tokenizer.train_new_from_iterator(
-    get_joint_corpus(),
-    vocab_size=2**15 # 32k vocab
+old_tokenizer = AutoTokenizer.from_pretrained("roberta-base", use_fast=True)
+
+tokenizer = old_tokenizer.backend_tokenizer
+from tokenizers.pre_tokenizers import Sequence, ByteLevel, Split
+from tokenizers import Regex
+
+PAT = r"'(?:[sdmt]|ll|ve|re)| ?[\p{L}\p{N}]+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+"
+
+tokenizer.pre_tokenizer = Sequence([
+    Split(Regex(PAT), behavior="isolated"),
+    ByteLevel(add_prefix_space=True)
+])
+from tokenizers.trainers import BpeTrainer
+
+trainer = BpeTrainer(
+    vocab_size=2**15,
+    special_tokens=[
+        "<s>", "<pad>", "</s>", "<unk>", "<mask>"
+    ]
 )
-shared_tokenizer.save_pretrained("../../tokenizers/shared-tokenizer")
+
+tokenizer.train_from_iterator(get_joint_corpus(), trainer=trainer)
+
+from transformers import PreTrainedTokenizerFast
+
+shared_tokenizer = PreTrainedTokenizerFast(
+    tokenizer_object=tokenizer,
+    bos_token="<s>",
+    eos_token="</s>",
+    unk_token="<unk>",
+    pad_token="<pad>",
+    mask_token="<mask>",
+)
+
+#shared_tokenizer = old_tokenizer.train_new_from_iterator(get_joint_corpus(),vocab_size=2**15 # 32k vocab)
+shared_tokenizer.save_pretrained("../../tokenizers/shared-tokenizer-bis")
 
 print("Applying BPE dropout for dataset tokenization...")
 shared_tokenizer._tokenizer.model.dropout = 0.1
@@ -46,7 +76,7 @@ df_tokens = pd.DataFrame()
 df_tokens["english"] = df["english"].apply(lambda x: shared_tokenizer.encode(x))
 df_tokens["darija"] = df["darija"].apply(lambda x: shared_tokenizer.encode(x))
 
-df_tokens.to_csv("tokenized_dataset.csv", index=False)
+df_tokens.to_csv("tokenized_dataset_bis.csv", index=False)
 print("Saved the tokenized dataset.")
 
 eng_lengths = df_tokens["english"].map(len)
