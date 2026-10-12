@@ -1,7 +1,6 @@
 # Transformer for Translation from English to Darija (Moroccan Arabic)  
 
-<img src="./uk_flag.jpg" width="47%">
-<img src="./morocco_flag.webp" width="49%">  
+<img src="./uk_flag.jpg" width="47%"><img src="./morocco_flag.webp" width="49%">  
 
 This project implements a Transformer-based model to translate English to Darija, with Darija written in latin alphabet.  
 The project is made of 3 parts :  
@@ -27,8 +26,8 @@ The `datasets` folder contains the Python files used to regularize the dataset, 
 
 After successfully training the 97M model, it's interesting to look at some PCA reductions of the embedding space, to visualize for example theme-based clustering (left image) as well as the clustering for same word different language (right image) since a shared embedding layer is used for the encoder and the decoder.  
   
-<img src="./clustering.png" width="49%">
-<img src="./countries.png" width="49%">
+| <img src="./clustering.png" width="100%"> | <img src="./countries.png" width="100%"> |
+| :--- | :--- |
 
 # Translation examples  
 
