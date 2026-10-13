@@ -24,7 +24,7 @@ The `datasets` folder contains the Python files used to regularize the dataset, 
 
 # Embedding space visualization  
 
-After successfully training the 97M model, it's interesting to look at some PCA reductions of the embedding space, to visualize for example theme-based clustering (left image) as well as the clustering for same word different language (right image) since a shared embedding layer is used for the encoder and the decoder.  
+After successfully training the 98M model, it's interesting to look at some PCA reductions of the embedding space, to visualize for example theme-based clustering (left image) as well as the clustering for same word different language (right image) since a shared embedding layer is used for the encoder and the decoder.  
   
 | <img src="./images/clustering.png" width="100%"> | <img src="./images/countries.png" width="100%"> |
 | :--- | :--- |
